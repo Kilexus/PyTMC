@@ -3,6 +3,7 @@
 Simple script for creating transition matrix for network analysis from csv file. 
 
 USAGE:
+
 0. Make sure you have Python 2.* installed.
 
 1. Place script in the directory where your csv file is situated (say, C:\Users\Alexey\Desktop\Folder_with_data).
