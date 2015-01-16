@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 PyTransitionMatrix script 1.0
+16.01.2015
 
 Simple script for creating transition matrix from csv file.
 
@@ -8,6 +9,7 @@ Up-to-date version is available on github.org/Kilexus/PyTransitionMatrix
 Or you can email me: a.v.knorre@gmail.com
 
 USAGE:
+0. Make sure you have Python 2.* installed.
 1. Place script in the directory where your csv file is situated.
 2. CSV file should be named "data.csv" and values inside the file should be separated with ";" (no quotes).
 3. Run the script. 
