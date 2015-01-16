@@ -1,6 +1,6 @@
 # PyTMC
 
-Simple script for creating transition matrix for network analysis from csv file. 
+Simple script for creating transition matrix (nothing common with stochastic matrices and Markov chains) for network analysis from csv file. 
 
 USAGE:
 
